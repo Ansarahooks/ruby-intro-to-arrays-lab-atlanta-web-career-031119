@@ -25,5 +25,3 @@ def last_element (array)
   array = ["Welcome to New York", "second element", "Out of The Woods"]
   array[-1]
 end
-
-
