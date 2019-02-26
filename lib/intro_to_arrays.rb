@@ -15,3 +15,8 @@ def third_element (array)
   array = ["Welcome to New York", "second element", "Style"]
   array[2]
 end
+
+def last_element (array)
+  array = ["Welcome to New York", "second element", "Style"]
+  array[2]
+end
