@@ -18,5 +18,5 @@ end
 
 def last_element (array)
   array = ["Welcome to New York", "second element", "Style"]
-  array[2]
+  array[-1]
 end
