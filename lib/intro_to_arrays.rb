@@ -7,11 +7,11 @@ def array_with_two_elements
 end
 
 def first_element (array)
-  my_array = ["Welcome to New York"]
-  my_array[0]
+  array = ["Welcome to New York"]
+  array[0]
 end
 
 def third_element (array)
-  my_array = ["Welcome to New York", "second element", "Style"]
-  my_array[2]
+  array = ["Welcome to New York", "second element", "Style"]
+  array[2]
 end
