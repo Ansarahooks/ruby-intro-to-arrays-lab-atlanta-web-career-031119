@@ -12,6 +12,6 @@ def first_element (array)
 end
 
 def third_element (array)
-  my_array = ["Welcome to New York", "second element", 3]
-  my_array[0]
+  my_array = ["Welcome to New York", "second element", "Style"]
+  my_array[2]
 end
