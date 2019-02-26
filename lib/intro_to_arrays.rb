@@ -27,6 +27,6 @@ def first_element_with_array_methods (array)
 end
 
 def last_element_with_array_methods (array)
-  array = ["Thailand", "second element", "Out of The Woods"]
+  array = ["Thailand", "second element", "Myanmar"]
   array.last
 end
