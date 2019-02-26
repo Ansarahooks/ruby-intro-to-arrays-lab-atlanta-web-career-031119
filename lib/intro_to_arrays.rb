@@ -10,3 +10,8 @@ def first_element (array)
   my_array = ["Welcome to New York"]
   my_array[0]
 end
+
+def third_element (array)
+  my_array = ["Welcome to New York", "second element", 3]
+  my_array[0]
+end
